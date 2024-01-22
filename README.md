@@ -17,15 +17,14 @@ You can click the Preview link to take a look at your changes.
 I'm a highly motivated Junior Python Developer from Moscow, Russia. I'm passionate about programming in general and python language in particular.
 In my free time I like reading technical literature and improving programming skills. 
 I'm open to new projects and networking with other developers.
-📫 Get in touch with me trough the following resources:
-- [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/wah_gwann)
-- [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekkorpachyov@gmail.com) 
+- 📫 Get in touch with me trough the following resources:
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/wah_gwann)
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekkorpachyov@gmail.com) 
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,linux,git,html,css,bootstrap" />
   </a>
@@ -44,6 +43,7 @@ I'm open to new projects and networking with other developers.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 --->
+
 
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Alllexxx1?theme=dark&font=source_code_pro)
