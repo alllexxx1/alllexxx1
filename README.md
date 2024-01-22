@@ -36,9 +36,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python, django, postgresql, linux, git, html, css, bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql,linux,git,html,css,bootstrap" />
   </a>
 </p>
+
+### LeetCode
+[![LeetCode Stats](https://leetcode.card.workers.dev/Alllexxx1?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/Alllexxx1/)
+
 <!---
 alllexxx1/alllexxx1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
