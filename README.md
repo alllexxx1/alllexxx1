@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" width="100"/>
+</div>
+
+---
+
 - 👋 Hi, I’m @alllexxx1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
