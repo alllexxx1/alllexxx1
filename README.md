@@ -2,14 +2,15 @@
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi there, I'm Alexey 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Alexey
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
 
 ### :man_technologist: About Me :
-- 🌎 I'm based in Moscow, Russia
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning FastApi
+I'm a highly motivated Junior Python Developer from Moscow, Russia. I'm passionate about programming in general and python language in particular.
+In my free time I like reading technical literature and improving programming skills. 
+I'm open to new projects and networking with other developers.
 - 📫 Get in touch with me trough the following resources:
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekkorpachyov@gmail.com) 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/wah_gwann)
@@ -45,4 +46,4 @@
 alllexxx1/alllexxx1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Alllexxx1?theme=dark&font=https://kinsta.com/blog/web-safe-fonts/#5-calisto-mt%20Mill%20Goudy)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Alllexxx1?theme=dark&font=source_code_pro)
