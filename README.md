@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
 </div>
 
+<h1 align="center">Hi there, I'm Alexey 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python developer from Moscow, Russia 🇷🇺</h3>
+
 ---
 
 - 👋 Hi, I’m @alllexxx1
