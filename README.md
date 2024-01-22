@@ -10,12 +10,21 @@
 - 🌎 I'm based in Moscow, Russia
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning FastApi
-- 📫 Get in touch trough:
+- 📫 Get in touch with me trough the following resources:
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekkorpachyov@gmail.com) 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/wah_gwann)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,linux,git,html,css,bootstrap" />
+  </a>
+</p>
+
+<!---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Pyython" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -26,19 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgresql,linux,git,html,css,bootstrap" />
-  </a>
-</p>
+--->
 
 ### LeetCode
 [![LeetCode Stats](https://leetcode.card.workers.dev/Alllexxx1?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/Alllexxx1/)
@@ -47,4 +45,4 @@
 alllexxx1/alllexxx1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Alllexxx1?theme=light&font=https://kinsta.com/blog/web-safe-fonts/#5-calisto-mt%20Mill%20Goudy)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Alllexxx1?theme=dark&font=https://kinsta.com/blog/web-safe-fonts/#5-calisto-mt%20Mill%20Goudy)
