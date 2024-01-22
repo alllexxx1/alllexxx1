@@ -42,7 +42,7 @@ I'm open to new projects and networking with other developers.
 --->
 
 
-### :keyboard: LeetCode
+### :computer: LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Alllexxx1?theme=dark&font=source_code_pro)
 
 
