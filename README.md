@@ -25,7 +25,6 @@ I'm open to new projects and networking with other developers.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,linux,git,html,css,bootstrap" />
   </a>
-  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
 <!---
