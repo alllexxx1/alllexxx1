@@ -23,7 +23,7 @@ I'm open to new projects and networking with other developers.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,linux,git,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,linux,docker,git,html,css,bootstrap" />
   </a>
 </p>
 
