@@ -41,11 +41,13 @@ I'm open to new projects and networking with other developers.
 </div>
 --->
 
-
+<div align="center">
+  
 ### :computer: LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Alllexxx1?theme=dark&font=source_code_pro)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alllexxx1&theme=default)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Alllexxx1?theme=dark&font=source_code_pro)
 
+</div>
 
 ### :mailbox: Get in touch with me:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/wah_gwann)
