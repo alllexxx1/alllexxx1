@@ -12,20 +12,23 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 
 I'm a highly motivated Junior Python Developer from Moscow, Russia. I'm passionate about programming in general and python language in particular.
 In my free time I like reading technical literature and improving programming skills. 
 I'm open to new projects and networking with other developers.
 
+### [:page_facing_up:](https://docs.google.com/document/d/1ZY2wGVpzsjXjn92aLl4vP32JB9vgDMwvBqdtcmHmTSI/edit?usp=sharing) My CV in Russian
 
-### :hammer_and_wrench: Languages and Tools :
+
+### :hammer_and_wrench: Languages and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,linux,docker,git,html,css,bootstrap" />
   </a>
 </p>
+
 
 <!---
 <div>
@@ -41,6 +44,7 @@ I'm open to new projects and networking with other developers.
 </div>
 --->
 
+
 <div>
 
 ### :computer: LeetCode and GitHub stats
@@ -55,8 +59,6 @@ I'm open to new projects and networking with other developers.
 </div>
 
 
-
-
-### :mailbox: Get in touch with me:
+### :mailbox: Get in touch with me
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/wah_gwann)
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekkorpachyov@gmail.com) 
