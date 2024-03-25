@@ -42,17 +42,19 @@ I'm open to new projects and networking with other developers.
 --->
 
 <div>
-  
-### :computer: LeetCode
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alllexxx1&theme=default)
+
+### :computer: LeetCode and GitHub stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Alllexxx1?theme=dark&font=source_code_pro)
 
 </div>
 
 <div>
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Alllexxx1?theme=dark&font=source_code_pro)
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alllexxx1&theme=default)
 
 </div>
+
+
 
 
 ### :mailbox: Get in touch with me:
