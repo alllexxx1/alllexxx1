@@ -18,8 +18,9 @@ I'm a highly motivated Junior Python Developer from Moscow, Russia. I'm passiona
 In my free time I like reading technical literature and improving programming skills. 
 I'm open to new projects and networking with other developers.
 
-### [:page_facing_up:](https://docs.google.com/document/d/1ZY2wGVpzsjXjn92aLl4vP32JB9vgDMwvBqdtcmHmTSI/edit?usp=sharing) My CV in Russian
-
+<!---
+### [:page_facing_up:]() My CV in Russian
+--->
 
 ### :hammer_and_wrench: Languages and Tools
 
